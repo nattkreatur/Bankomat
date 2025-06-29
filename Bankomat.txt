@@ -1,0 +1,26 @@
+Bankomat ska ha:
+
+[x]Inloggning med pin-kod(fast kod ok)
+
+[x]1. Insättning
+[x]2. Uttag 
+[x]3. Donera hälften
+[x]4. Avsluta 
+
+[x] Felhantering(fel tecken kan få programmet att krascha)
+	[x] Ändra  pin
+	[x] Insättning
+	[x] Uttag
+	[x] Inloggning
+	[x] Menyvalsfunktion?
+
+---------------
+
+Bygg på med
+
+[x] förhindra minussaldo
+[x] begränsat antal inloggningsförsök(testa med en for-loop, det sög: blev en if-sats istället)
+[x] Spara saldo till nästa start?(vore bra träning)
+[x] Spara PIN-kod till nästa start.
+[x] Skriv ut kvitto på ny PIN-kod?
+[x] Funktion för att byta pinkod(planerad med pseudokod)
